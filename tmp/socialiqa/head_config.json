@@ -1,0 +1,14 @@
+{
+  "config": null,
+  "hidden_size": 768,
+  "label2id": {
+    "LABEL_0": 0,
+    "LABEL_1": 1
+  },
+  "model_class": "BertForQuestionAnswering",
+  "model_name": "bert-base-multilingual-cased",
+  "model_type": "bert",
+  "name": null,
+  "num_labels": 2,
+  "version": "3.2.0"
+}

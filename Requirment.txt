@@ -1,0 +1,4 @@
+adapter-transformers
+datasets
+evaluate
+python==3.9
