@@ -77,7 +77,7 @@ where `<model_name_or_path>` is the name or path of the pre-trained multilingual
 
 The following table summarizes our main results on F1 scores for different model variants and languages.
 
-| Model | en | hi | bn | sw | is | Average |
+| Model | English(en) | Hindi(hi) | bengali(bn) | Swahili(sw) | Icelandic(is) | Average |
 |-------|----|----|----|----|----|---------|
 | MAD-X (baseline) | 82.39 | 50.73 | 48.90 | 57.85 | 39.83 | 55.94
 | Full Fine-Tuning MBERT (baseline)| 89.12 | 55.29 | 56.29 | 60.99 | 41.57 | 60.65
